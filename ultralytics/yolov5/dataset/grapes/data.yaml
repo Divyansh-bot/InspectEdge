@@ -1,0 +1,8 @@
+train: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/grapes/train/images
+val: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/grapes/valid/images
+test: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/grapes/test/images
+
+nc: 2
+names: ['Fresh_grapes', 'Rotten_grapes']
+
+

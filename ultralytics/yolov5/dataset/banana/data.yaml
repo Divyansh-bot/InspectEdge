@@ -1,0 +1,13 @@
+train: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/banana/train/images
+val: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/banana/valid/images
+test: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/banana/test/images
+
+nc: 2
+names: ['Fresh_banana', 'Rotten_banana']
+
+roboflow:
+  workspace: albert-vfswp
+  project: banana-qzn7z
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/albert-vfswp/banana-qzn7z/dataset/1

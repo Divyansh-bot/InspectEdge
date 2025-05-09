@@ -1,0 +1,13 @@
+train: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/guava/train/images
+val: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/guava/valid/images
+test: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/guava/test/images
+
+nc: 2
+names: ['Fresh_guava', 'Rotten_guava']
+
+roboflow:
+  workspace: grid-air2x
+  project: guava-gvhzp
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/grid-air2x/guava-gvhzp/dataset/1

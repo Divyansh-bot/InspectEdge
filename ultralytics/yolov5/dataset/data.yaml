@@ -1,0 +1,7 @@
+
+train: ../dataset/freshapple/train/images
+val: ../dataset/freshapple/valid/images
+
+nc: 2  # Number of classes (fresh and rotten apple)
+
+names: ['freshapple', 'rottenapple']

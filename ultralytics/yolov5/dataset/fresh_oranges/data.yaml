@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/fresh_oranges/train/images
+val: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/fresh_oranges/valid/images
+test: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/fresh_oranges/test/images
+
+nc: 1
+names: ['Fresh_oranges']

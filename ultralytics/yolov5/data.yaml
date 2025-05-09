@@ -1,0 +1,5 @@
+train: D:\project\GRID\ml_codes\models\yolov5\dataset\images\train  # path to training images
+val: D:\project\GRID\ml_codes\models\yolov5\dataset\images\val      # path to validation images
+
+nc: 4  
+names: ['FreshApple', 'RottenApple', 'FreshBanana', 'RottenBanana']

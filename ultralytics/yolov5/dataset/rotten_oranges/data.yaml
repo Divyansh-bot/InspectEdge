@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/rotten_oranges/train/images
+val: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/rotten_oranges/valid/images
+test: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/rotten_oranges/test/images
+
+nc: 1
+names: ['Rotten_oranges']

@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/freshapple/train/images
+val: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/freshapple/valid/images
+test: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/freshapple/test/images
+
+nc: 1 # Number of classes (update if needed)
+names: ['Fresh_Apple']  # Class names

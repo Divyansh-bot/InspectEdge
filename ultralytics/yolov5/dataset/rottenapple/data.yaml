@@ -1,0 +1,13 @@
+train: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/rottenapple/train/images
+val: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/rottenapple/valid/images
+test: /content/drive/MyDrive/PackTrack_AI/yolov5/dataset/rottenapple/test/images
+
+nc: 1
+names: ['Rotten_Apple']
+
+roboflow:
+  workspace: grid-ztr31
+  project: apple2-4tn4u
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/grid-ztr31/apple2-4tn4u/1
